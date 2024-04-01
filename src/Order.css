@@ -1,0 +1,19 @@
+.btn1 {
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid #ff044f;
+    padding: 14px 50px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: black; 
+    transition: background 0.5s;
+}
+.btn1:hover {
+    background: #ff044f;
+}
+
+.btn {
+    display: block;
+    
+}
